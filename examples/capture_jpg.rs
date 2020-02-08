@@ -1,4 +1,4 @@
-use minicap_client::read_from_stream;
+use minicap_example::read_from_stream;
 use std::fs::File;
 use std::io::{Result, Write};
 use std::net::TcpStream;
